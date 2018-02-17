@@ -1,0 +1,30 @@
+2017-11-21 22:39:23 INFO  TestBase21 - Navigating to http://automationpractice.com/index.php
+2017-11-21 22:39:23 INFO  TC_InvalidCredentials24 - ******* Started InvalidCredentials TestCase ********
+2017-11-21 22:39:27 INFO  HomePage36 - Clicked on SignIn [[FirefoxDriver: firefox on WINDOWS (8253593e-2960-484a-aeaa-ab0ea2e7ca6b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-21 22:39:28 INFO  HomePage38 - Entered email ID : Test@gmail.com
+2017-11-21 22:39:30 INFO  HomePage42 - Clicked on submitButton : [[FirefoxDriver: firefox on WINDOWS (8253593e-2960-484a-aeaa-ab0ea2e7ca6b)] -> xpath: .//*[@id='SubmitLogin']]
+2017-11-21 22:39:30 INFO  TC_InvalidCredentials30 - ******* Finished InvalidCredentials TestCase ********
+2017-11-21 22:51:40 INFO  TestBase21 - Navigating to http://automationpractice.com/index.php
+2017-11-21 22:51:40 INFO  TC_InvalidCredentials24 - ******* Started InvalidCredentials TestCase ********
+2017-11-21 22:51:43 INFO  HomePage36 - Clicked on SignIn [[FirefoxDriver: firefox on WINDOWS (650fd87f-9153-4386-9b35-675b2360e0e4)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-11-21 22:51:44 INFO  HomePage38 - Entered email ID : Test@gmail.com
+2017-11-21 22:51:45 INFO  HomePage42 - Clicked on submitButton : [[FirefoxDriver: firefox on WINDOWS (650fd87f-9153-4386-9b35-675b2360e0e4)] -> xpath: .//*[@id='SubmitLogin']]
+2017-11-21 22:51:45 INFO  TC_InvalidCredentials30 - ******* Finished InvalidCredentials TestCase ********
+2017-12-03 19:36:01 INFO  TestBase21 - Navigating to http://automationpractice.com/index.php
+2017-12-03 19:36:01 INFO  TC_InvalidCredentials24 - ******* Started InvalidCredentials TestCase ********
+2017-12-03 19:36:05 INFO  HomePage36 - Clicked on SignIn [[FirefoxDriver: firefox on WINDOWS (a3dc6c1f-ad07-4750-b3c5-3c1a17797315)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-03 19:36:06 INFO  HomePage38 - Entered email ID : Test@gmail.com
+2017-12-03 19:36:07 INFO  HomePage42 - Clicked on submitButton : [[FirefoxDriver: firefox on WINDOWS (a3dc6c1f-ad07-4750-b3c5-3c1a17797315)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-03 19:36:07 INFO  TC_InvalidCredentials30 - ******* Finished InvalidCredentials TestCase ********
+2017-12-03 19:51:52 INFO  TestBase21 - Navigating to http://automationpractice.com/index.php
+2017-12-03 19:51:53 INFO  TC_InvalidCredentials24 - ******* Started InvalidCredentials TestCase ********
+2017-12-03 19:51:55 INFO  HomePage36 - Clicked on SignIn [[FirefoxDriver: firefox on WINDOWS (0d48c5bf-dc81-4b61-b286-7d38f46f5c14)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-03 19:51:56 INFO  HomePage38 - Entered email ID : Test@gmail.com
+2017-12-03 19:51:58 INFO  HomePage42 - Clicked on submitButton : [[FirefoxDriver: firefox on WINDOWS (0d48c5bf-dc81-4b61-b286-7d38f46f5c14)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-03 19:51:58 INFO  TC_InvalidCredentials30 - ******* Finished InvalidCredentials TestCase ********
+2017-12-03 20:21:11 INFO  TestBase21 - Navigating to http://automationpractice.com/index.php
+2017-12-03 20:21:11 INFO  TC_InvalidCredentials24 - ******* Started InvalidCredentials TestCase ********
+2017-12-03 20:21:14 INFO  HomePage36 - Clicked on SignIn [[FirefoxDriver: firefox on WINDOWS (2e96fc9b-351b-4795-97b8-ff8fb5e3e593)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-03 20:21:15 INFO  HomePage38 - Entered email ID : Test@gmail.com
+2017-12-03 20:21:17 INFO  HomePage42 - Clicked on submitButton : [[FirefoxDriver: firefox on WINDOWS (2e96fc9b-351b-4795-97b8-ff8fb5e3e593)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-03 20:21:17 INFO  TC_InvalidCredentials30 - ******* Finished InvalidCredentials TestCase ********
